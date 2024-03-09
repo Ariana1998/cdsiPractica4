@@ -1,0 +1,227 @@
+OK.
+Quieres entre 3 y 5 minutos para presentar.
+Perfecto.
+Bueno, las ideas que les voy a presentar son dos ideas igual
+con la medición de SG.
+La primera es reconocimiento de actividades mediante señales
+de SG o con señales de SG.
+La primera idea es mi idea general,
+empezando por, bueno, hacer que el SG nos mide la actividad
+eléctrica del corazón.
+Es algo que ya sabemos.
+Y las actividades que se puede realizar o que realiza
+una persona influyen directamente en la actividad
+eléctrica.
+Y actividades, pues, puse como caminar, estado de reposo,
+o hacer ejercicio.
+Y de hacer ejercicio, pues, puede haber una variedad, ¿no?
+Sentadillas, correr o levantar pesas o algo así.
+La motivación de este proyecto es que precisamente el reto es,
+bueno, no es como tal el reto porque es relativamente fácil
+conocer cuando una persona está en estado de reposo a una
+persona que está caminando a una persona que está haciendo
+ejercicio.
+Porque como influye de manera directa en la frecuencia
+cardíaca, pues, sería fácil diferenciar,
+ya sea por clasificador o por medio de imágenes.
+Pero es aquí.
+¿Qué tipo de estado de reposo?
+Pues, estado de reposo, de estar trabajando en la computadora,
+simplemente sentado, viendo el celular.
+Eso lo considero como estado de.
+O sea, puede haber un nudo que, aunque esté en estado de reposo,
+puede estar se alterando.
+Ajá.
+Si tu propuesta está sentada y recibes una llamada y en la
+llamada te dan malas noticias, ese ejemplo muchos otros pueden
+hacer que te alteres el ritmo cardíaco.
+El ritmo cardíaco.
+Ajá.
+¿A qué se requiere que estemos con todo el poco?
+Es decir, ¿no tiene que estar haciendo nada?
+Ajá.
+Pues, mi idea general era que estuviera sentado y tal vez
+ponerle una lectura, unos, dos, tres párrafos,
+y que lo estuviera leyendo para que fuera estado de reposo de una
+persona caminando.
+Pero como les comentabas, hacer esto es.
+No, no, no.
+O sea, una persona que está en estado de reposo y leyendo.
+Después, la misma persona en otro segmento de señal o en
+otra lectura de señal que esté caminando y la misma persona
+que está haciendo ejercicio.
+Pero la idea como en general no es esta.
+Porque es aquí en donde viene el reto.
+Pero se puede hacer con personas de la misma edad.
+Diferenciar entre una persona que está caminando,
+está en estado de reposo o está haciendo ejercicio es fácil.
+Pero no haciendo la misma actividad en personas
+sedentarias o en personas que se pueden considerar deportistas.
+¿Habrá una diferencia que se puede encontrar?
+O sea, es decir, una persona que es deportista a una persona,
+por ejemplo, que nosotros estamos todo el día sentados
+con poca hora, sin hacer actividad.
+Hacer esa diferencia en esas dos personas de estado de reposo,
+que las dos estén caminando o que las dos estén haciendo
+ejercicio, ¿se puede encontrar esa diferencia en una señal
+DSG?
+Exactamente.
+Mediante tres actividades que se pueden hacer.
+Bueno, pero, exacto.
+Y tú, Loco, ¿qué es la explicación de actividad?
+Ajá.
+Es que ahí como que aún no lo puedo, bueno,
+aún no lo aterrizo bien.
+Porque igual tengo otra idea que no sé si la quieran escuchar
+o nos quedamos con una.
+Vamos con esta primero.
+OK.
+Pero sí debe de quedar claro que la actividad es por que
+cambia hasta ser firme.
+Condición física o reconocimiento entre tipos de
+personas, no sé, algo así.
+Entre sedentarias y deportistas, algo.
+¿Pueden estar muy sesgados a que solo tienes uno o dos
+deportistas que a más bien hacia particularidades individuales
+que hacia un grupo que yo creo lo que quieres hacer?
+Y de hecho, un reto también es que va a entrar la parte de la
+fisiología, porque por fisiología hay personas que así
+hagan mucho deporte, mucho, mucho deporte y toda su vida
+hayan hecho deporte, su frecuencia es muy alta.
+A pesar de que, como el corazón es un.
+Queda 30 segundos.
+OK.
+Entonces me gustaría presentar el otro, que es mediciones del
+estrés a partir de señales de ECG.
+Este es el que, otro que también me llama la atención,
+en general es darle a personas, bueno,
+a diferentes compañeros diferentes operaciones,
+diferentes tipos de operaciones como sumas, multiplicaciones,
+restas y darles las respuestas para que sean los sujetos
+control.
+O sea, que les pongan los resultados, ¿no?
+10 más 5 igual a 15.
+Te voy a preguntar, 10 operaciones.
+Bueno, 10 sumas, 10 multiplicaciones y 10
+divisiones.
+¿Cuántos 10 más 5 ya la ves?
+Ajá, o sea, te voy a preguntar cuánto es 10 más 5.
+OK.
+Te voy a preguntar cuánto es 25 más 5.
+Y cuando pasen al estudio, que se los voy a dar minutos antes
+para que lo repasen, se mantengan tranquilos.
+Y cuando entren al estudio les voy a medir el ECG.
+Y se los voy a preguntar para que sean sujetos control.
+Pero a la misma vez con otros compañeros les voy a hacer la
+misma dinámica.
+Aquí están las respuestas de las operaciones.
+10 más 5, igual lo mismo.
+Pero, ajá, porque lo que me interesa es que estén en
+calma y cuando estén sentados les voy a preguntar operaciones
+completamente diferentes a las que les di.
+Cuando estén sentados les voy a preguntar cómo cuánto es 521
+más 1,412.
+Y eso me generaría un estrés.
+Bueno, en las personas.
+Lo mismo con los que les pregunto multiplicación y los
+mismos con los que les pregunto división.
+Un ice and death que va como para que no se presionen para
+tratar de tener un estrés.
+Ajá.
+Y no cualquier cosa, ya lo tengo mal.
+Y mi teoría es que se va a presentar diferentes tipos de
+estrés, dependiendo de las operaciones que.
+¿Proponido o hipótesis?
+Mi hipótesis, perdón.
+Es que se les va a presentar diferentes.
+Ajá.
+O sea, en una escala.
+En una escala.
+¿Qué tan estresado se ve cuando se les pregunta sumas,
+por ejemplo, cuando se les pregunta multiplicaciones y
+cuando se les pregunta divisiones de algo que no,
+cuando les saque como de fuera del área de confort?
+Cuando son tiempos, los niveles.
+Ajá.
+Sí, sí, sí.
+Sí, bueno, serían niveles de estrés.
+Ese es como el que aterrizé más y que me llama más la
+atención.
+Los dos me llaman la atención, pero en general es más ediciones
+de nivel del estrés.
+¿Revisarte el estrés todo?
+Sí.
+No mucho.
+La verdad, le voy a ser honesto, no mucho.
+Porque hasta ayer en la noche me estuve peleando con el,
+con la diadema y no logré que funcionara.
+Logré que se conectara.
+Logré que prendiera.
+Logré que vinculara.
+Pero después de 10 segundos se desconecta.
+Y el manual menciona cómo hacerle un reset ahí.
+Entonces, le estuve haciendo reset, pero lo mismo.
+Se conecta, se vincula, mide 10 segundos y se va.
+Entonces, pues, hasta ayer mi idea era trabajar con la
+diadema, pero ya cuando vi que era tarde y que no podía
+vincularlo y que tomara una medición larga,
+porque 10 segundos no creo que me hubieran servido mucho.
+Entonces, empecé a aterrizar ideas con SG.
+Dí una revisada rápida, pero no tanto como me hubiera gustado.
+¿Qué es lo que te da EG que no te da SG o vincular?
+Es que, por ejemplo, si lo hago con EG están las diferentes
+ondas, las ondas alfa, beta, gama y delta.
+Y las ondas, las gama, son las que me dan la actividad
+eléctrica de corazón con respecto a la parte de la
+cognición, aparte de la actividad de aprendizaje.
+Y el SG, lo único que me puede dar son los cambios de
+alteración en la frecuencia cardíaca cuando una persona
+esté en estrés o no.
+Porque si lo vemos por parte de fisiología,
+cuando una persona se estresa, regularmente, pues,
+nos tiende a subir la temperatura.
+Entonces, el corazón lo que hace es irrigar más sangre para
+compensar esta parte de la temperatura.
+Y el irrigar más sangre implica aumentar la frecuencia
+cardíaca.
+Pero, pues, no puedo medir como tal qué tipo de,
+o a qué frecuencia es con respecto a qué tipo de
+operación.
+Por eso es como que quiero poner los,
+como medir los niveles de estrés.
+Eso es lo que no me da EG con respecto al SG.
+¿Qué dirías si te digo que tu proyecto no me gusta?
+Pues, me abriría a escuchar ideas,
+mejorarlo, porque igual no lo tengo tan aterrizado.
+Y quiero que sea algo que les guste a ustedes dos también.
+Un último y ya está.
+¿Qué tal, como, con buenas que no tienes eso en el título?
+Sí, es acá.
+Pero nada más posee una slide, porque esa fue como la última
+que pudé, bueno, que logré aterrizar.
+Y, en realidad, lo que quiero hacer es una recolección de
+datos en personas de la misma edad.
+Pueden ser cualquier compañero de CISESE, o sea, no,
+no importa.
+Y, bueno, también quiero que sea algo que les guste a ustedes
+Y ver la clasificación, bueno, le puse clasificación,
+pero no es como tal.
+Observar los cambios en los niveles de estrés.
+Medir el SG por medio del sensor.
+Las operaciones, sí.
+Mi hipótesis es que los niveles de estrés,
+los niveles de estrés, los niveles de estrés,
+los niveles de estrés, los niveles de estrés,
+los niveles de estrés, los niveles de estrés,
+mi hipótesis es que los niveles de estrés cambiarían
+con respecto a qué tareas se les ponga hacer.
+Que sería un nivel de estrés más chico si les pregunto sumas,
+a un nivel medianamente si les pregunto multiplicaciones,
+a un nivel alto de estrés si les pregunto divisiones.
+Igual influye, porque hay personas que son más nerviosas,
+entonces, tal vez, desde una suma se altere bastante.
+Y hay personas que tal vez les pregunte divisiones
+un poco complicadas y se mantengan en calma,
+entonces, no pueda observar los cambios.
+Es ahí donde viene el reto.
+¿Puedo ver?

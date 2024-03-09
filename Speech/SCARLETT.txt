@@ -1,0 +1,68 @@
+Bueno, pues el proyecto que decidí hacer para esta clase es la detección de ansiedad a
+través del análisis de audio y de discurso y la motivación principal es que el diagnóstico
+y el seguimiento frecuente de trastornos de la salud mental como la ansiedad pues requieren
+interacciones constantes con los profesionales de salud mental. Sin embargo, pues esto puede
+ser costoso y no de tan fácil acceso para todas las personas, lo cual pues presenta una barrera
+significativa. Y pues bueno, a través del uso de audios podemos capturar de manera no invasiva
+y en tiempo real señales acústicas y lingüísticas que nos puedan dar una indicación de presencia de
+ansiedad. Y pues esto podrá ayudar tanto para el automonitoreo de la ansiedad de las personas como
+una intervención temprana, ya que pues las personas en tratamiento pueden identificar
+tal vez estresores de los cuales no son conscientes y pues intervención temprana,
+pues una persona que tal vez no sepa que tiene ansiedad podría con estos medios ver que,
+pues tal vez ocuparía a pedir ayuda, ¿no? Y el diseño xp, pues yo creo que lo relacionó
+mucho con el estrés. ¿Igual que estrés? Según yo es el estrés y dentro está la ansiedad. ¿Como
+un síntoma como que puede ser del estrés? Más bien siento que induzco estrés para poder detectar
+la ansiedad.
+Pero si tienes definiciones de ansiedad, o sea, ya hemos trabajado en ansiedad y
+esos conceptos ya los dominan, o sea, si tienes la definición de ansiedad. Pues yo tengo entendido
+que ansiedad es como el estrés que sientes, pero a situaciones futuras. Pero si tienes la definición,
+ya lo hemos trabajado. Pero ahorita no me acuerdo. Ah, es importante que conceptualmente no puedes
+tener idea de trabajar en emociones discretas de Iqman, por ejemplo. Que no te la tepas y no sepas
+a qué concepto. Conceptualmente es importante. ¿Y si lo sabes?
+¿Continúo? Bueno, pues la tecnología es sensado como van a hacer audios, pues es el uso de
+micrófonos para poder detectar las señales de audio. El escenario de recolección es justamente
+el recopilar las señales de audio durante las presentaciones de los anteproyectos ante los
+profesores. Entonces, pues la población sería pues yo y mis compañeros. Y se va a recopilar en
+tres momentos claves, que es antes, durante y después de las presentaciones. Y además se busca
+también recopilar un par de horas después, un par de días después para tener como esta muestra
+control sin ansiedad. Y el protocolo en el que me base pues fue basado en la prueba de Trier Social
+Stress Test, el cual consiste en... Bueno, me base en este protocolo. Las variables a medir van a ser
+tanto acústicas como lingüísticas. Análisis de datos, pues al hacer un clasificador que detecte la
+ansiedad a través de los audios. Técnicas de procesamiento, pues serán la segmentación de audios,
+extracción de características, pero precisamente texto y selección de características. Y estas
+características extraer, que son las que pongo aquí, son acústicas y lingüísticas, pero hago
+énfasis en estas porque ya se probó en la literatura que si tiene una correlación con la ansiedad,
+por eso planeo utilizarlas para mi estudio. También de algoritmos de inferencia utilizo
+Regresión Logística porque también viene un paper que pues funcionó bastante bien. Y los demás
+porque... Bueno, Random Forest y Gradient Boosting porque tuvieron una buena desempeño en la primera
+práctica de análisis de audio y Super Vector Machines, pues por completitud. Y este es un
+pequeño avance del estudio piloto que tuve el viernes, el cual pues tuvo errores durante la
+edición, pero pude captar pues estos datos. Los espectrogramas son de antes y después. Arriba
+corresponde a una mujer, abajo corresponde a un hombre. Y según yo logro ver que sí se puede ver
+ciertas diferencias, las cuales pues un clasificador sí podría ser capaz de poder diferenciar. O sea,
+sí es viable hacer un clasificador. Lo que yo noté es que según yo hay menos frecuencias altas
+antes, lo cual yo interpreté como que...
+Pues nada más era como que discutir el estudio piloto y ya.
+Sí. Ah, bueno, según yo noté que antes como hay menos frecuencias altas, como que tal vez
+tienen a hablar un poco más graves cuando se sienten ansiosos y después un poquito pues como
+que más agudo porque sienten un poco más de alivio. También algo que noté es que hubo personas que
+antes y después reportaron el mismo nivel de ansiedad y es por esto que en el protocolo decidí
+también censar un par de horas después, un día después, porque veo que incluso después de la
+presentación pueden seguir como un poco ansiosos. Y bueno, por ahí me salió un outlier, ¿no? Pero
+bueno, es que no tengo tiempo, entonces no puedo discutir tanto, o no sé qué.
+Ah, es el nivel de ansiedad reportado en azules antes y en morado es después del examen.
+Del 1 al 5, donde 1 es no ansioso y en 5 es muy ansioso.
+No hablo así en un momento en el que no se puede saber, no es en anterior la referencia, tengo la idea de saber.
+No, no tengo ni idea de eso.
+No se puede saber.
+Eso no interesa a todo el mundo.
+Todo lo que es, es que acabo de decir que es una playa, no puedo decirle a una playa que no es y es un comportamiento natural.
+Es que sí tengo explicación según yo. Es que este compañero antes se había muy confiado y también saliendo se sentía muy confiado a su examen,
+pero justo antes de hacer la fila para la entrevista, él mencionó que puso en sus respuestas pues tal cosa, ¿no?
+Y todos los compañeros coincidimos en que no lo teníamos igual, entonces como que eso le ha dado ansiedad de que ahí puse todo mal en el examen.
+Y esa es la explicación que tengo.
+Seguros.
+Seguros y que te descarten o te traten datos diferentes cuando debería de ser algo que quede difícil.
+Para el.
+¿Va a contar o no lo paro ya?
+Va.

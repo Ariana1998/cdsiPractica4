@@ -1,0 +1,191 @@
+Bueno, pues mi proyecto se trata acerca de detección de fatiga al hacer movimientos repetitivos.
+Esto viene, más que nada, de un contexto industrial en el que fábricas, tanto textiles
+como industriales, suelen batallar con el problema de, en este caso, tonel carpiano
+o fatiga muscular de movimientos repetitivos al estar maquilando productos.
+Anteriormente estos se detectan de forma posterior al ambiente laboral en el cual ya el producto de
+la fatiga viene siendo ahora sí que pues tonel carpiano o problemas pues ya más severos.
+En este caso mi solución es crear un ambiente IoT para poder realizar el análisis tanto temprano
+de la fatiga muscular en el momento de hacer el movimiento repetitivo.
+Para el diseño experimental, pues la tecnología sensado es utilizar unas placas de desarrollo
+conexiones con conexión Wi-Fi. En este caso es imitar, bueno, no imitar, es desarrollar un IMO.
+De hecho, estoy haciendo ahorita los prototipos con el cual, con conexión a la red Wi-Fi,
+podemos hacer un ambiente en el cual la persona o el sujeto puede estar realizando la actividad
+sin ningún problema y sin estorbarle a más de decir que va a estar teniendo el sensor.
+Captando los movimientos inerciales.
+Porque viéndolos desde la escalabilidad, pues no nomás podemos estar detectando la fatiga de una sola persona.
+Son de muchas personas. Por lo que tener muchas conexiones en este caso como los SIMUs de LP Research
+que se conectan vía Bluetooth, pues ya no es tan recomendable porque van ante una misma frecuencia
+y la tecnología Bluetooth, desde mi punto de vista, no está totalmente hecha para una escala
+pues ahora sí grande de, no sé, a lo mejor, diez personas detectados al mismo tiempo, por así decirlo.
+Por lo que, pues en este caso, opté mejor por tecnología Wi-Fi mediante la red.
+Siento que hay maneras de controlar mejor el tráfico de los datos y poder detectarlos de manera más rápida.
+Poder detectar la fatiga de manera más rápida.
+En este caso, el entorno, pues es un entorno controlado con una red de sensores en este caso.
+¿La sensora para detectar la fatiga?
+La actividad, perdón, sí.
+Revisaste el paper sobre estudios que relacionan la movilidad con fatigas.
+O sea, creo que yo me quiero saber qué otros factores puede estar influyendo en esa variable que quieres trabajar.
+No nada más el movimiento.
+No, también es la postura. Ahí es donde entra también esto de las redes, que no solamente son sensores inerciales.
+Planeo en este caso que también mediante media by post y con cámaras poder ver las poses de las personas.
+Porque a veces también afecta si las manos no las tienen apoyadas en una, en este caso, a lo mejor en su área de trabajo, si las tienen en el aire.
+O los movimientos, en este caso, por ejemplo, picar, picar, no sé, verdura.
+Cuando pica una verdura, está siempre alzando el brazo y es justo lo que puede afectar, por ejemplo, el maldito rotador.
+Por dar un ejemplo, que eso es parte de la motivación de...
+Vale, entonces, yo creo que algo que es la clave es que este ejercicio no esté penible, sino que ya lo elijas más pronto.
+O vas a probar varios, o cómo lo vas a probar.
+Sí, estoy todavía buscando que ejercicio se pueda realizar de manera que no sea riesgoso para el sujeto.
+Que se pueda generar fatiga en pocos intervalos de tiempo.
+Y aparte, que sea fiel a lo que busco en el proyecto, que es imitar un entorno industrial.
+Pues, otra alternativa podría ser con respecto al enfoque del proyecto, o en el ejercicio como tal.
+En el ejercicio, pero también con enfoque, pues es que se orienta mucho a deporte.
+Se orienta muchísimo al área de deporte.
+Se da una fatiga, pero en deportes.
+Sin embargo, pues ahora sí se incluyen otros factores, como lo que es el ambiente y, a lo mejor, el tamaño de la red, tendría que ser.
+En este caso, en un ambiente industrial, pues se puede distribuir por zonas, en áreas de trabajo, y pues son más, son áreas más pequeñas y controladas.
+En este caso, en el deporte, pues ahora sí que estarlo sensando de manera, pues encima que es inalámbrico, pero a largas distancias, pues está difícil.
+No lo sé, a lo mejor medir la fatiga de una persona al momento de correr.
+De tener los sensores conectados, pero enviando Wi-Fi.
+Pero a lo mejor, no lo sé, esto ya entra cosas de IoT, tener, no sé, redes access point.
+Para que pueda, no lo sé, combatir la parte de las distancias.
+Ahora, si este ejercicio requiere mucha movilidad, ¿estaría listo tu prototipo para que pueda ser cortado por una persona?
+Imaginas que le ponés a correr.
+Opinaría que la batería sería uno de los factores, pues importantes a destacar.
+Porque en este caso, pues ahorita se alimenta con corriente vía USB.
+Sin embargo, sí tengo que buscar una pequeña fuente de alimentación o una batería.
+Entonces entre baterías o baterías recargables, todavía estoy pensando al respecto.
+Sin embargo, dejando la batería de lado, sí es nada más prototiparlo vía, no lo sé, un pequeño prototipo en impresión 3D.
+Y sí podría ser cortado.
+¿Y si te pones a usar prototipo para...?
+Sí, en el caso, sí.
+Por estado me refiero más bien a la fatiga.
+Por ejemplo, la persona está realizando el movimiento repetitivo a nivel del tiempo, en una serie de tiempos.
+Y preguntarle cada, no lo sé, cada cinco minutos por dar un ejemplo.
+Cada cinco minutos decir cómo se siente, si siente fatigado, si no.
+Y hacer a lo mejor una escala de leaker, si planea hacer en este caso tareas de regresión.
+Si quisiera dárnoslos un porcentaje.
+Yo diría que alrededor de unos 20 minutos, si no es que 30.
+Por así decirlo, sí.
+Porque como el ambiente más que nada es un ambiente, por así decirlo, industrializado,
+pues tengo que hacerlo como si fuera una jornada de trabajo, pero solamente una fracción.
+En la cual la persona sí se podrá a lo mejor estar tomando el tiempo de hacer su trabajo.
+Sin embargo, pues sigue siendo repetitivo.
+Así es.
+En un principio se había pensado como tal en eso, porque la motivación desde que mi mamá,
+por trabajar en ese tipo de actividades, tuvo problemas con el manguito rotador
+y su brazo ahorita no lo puede mover para nada.
+Y esa fue la motivación para empezar.
+Pero claro, no puedo poner a los sujetos a lastimarse o a cortarse,
+como ella se ha cortado a lo largo del tiempo trabajando en eso.
+Por eso...
+Quizás en un lado, no puedes poner ahí de esta línea platina, lo que sea,
+y dar una palita de madera en un aspecto.
+Ya, realizando la actividad está medio simulado,
+si es una actividad que se favorece, que sea en una sola área,
+que no se tenga que estar desplazando para que Dios no sufra.
+¿Cómo se mire el patilaje?
+No, no, lo miré nada más inercial en su momento.
+Patilaje inercial.
+Sí, para medir la fatiga, pero lo hacían acarreando objetos.
+Era en el caso de que la persona los llenaban de sensores inerciales
+y la persona estaba desplazándose en un área moviendo objetos.
+En este caso, viéndolo más como en el área de...
+Serían inventarios o almacén.
+Que ahí sí, pues es estar cargando pesos.
+Y ya, ya está en autor el toro.
+No, no está en autor.
+Sería yo les...
+Escalas para medir la fatiga.
+Sí, yo pensaba más que nada en una escala de dicha.
+No, no he investigado.
+Amuna se tiene...
+Desplazos de forma que se llevan a cierto...
+Nivel.
+Nivel para...
+Del estrés, ¿no? Del estrés...
+Sí.
+Y están asociadas a tu capacidad de respiración.
+Estás intentando tenerla...
+Incluso, ¿sabes qué?
+Otra medida puede ser asociar la voz.
+Empiezas a tener la voz interportada o después no puedes hablar.
+Estás patilado aerobicamente.
+OK.
+Entonces, ¿puedes saber qué hay para que sea automático?
+Bien.
+Claro.
+Este, bueno.
+En las variables a medir pues iban a ser, bueno...
+Aceleración, filoscopio, anglos de Euler y la postura sobre todo.
+Bueno, en cuestión de las tareas estaba pensando
+o clasificación binaria de si presenta o no presenta fatiga
+o en este caso pues regresión
+para determinar un porcentaje en base a los reportes.
+No, más bien es...
+Pensaba que a lo mejor...
+Mi hipótesis es de que
+llega un punto en el que la aceleración del movimiento
+tiene mucho que ver.
+A lo mejor y aunque la persona...
+En un ambiente industrial pues vaya, tienes un estándar
+de piezas que tienes que sacar
+y es una cierta velocidad de lo que uno tiene que estar
+armando las piezas o haciendo la tarea.
+Pues va a llegar a un punto en el que ese movimiento
+que aunque parezca repetitivo
+pues la aceleración vaya a cambiar
+al momento ya de sentirse fatigado y descansado.
+Lo ves como que hay un bajón
+para la aceleración
+o para la velocidad de la aceleración de la aceleración de la agua.
+No lo había considerado.
+Y bueno, los niveles de datos que consideré
+eran los CRUDOS
+que es la aceleración de quioscopio
+de alto nivel que serían los keypoints de la postura
+que puede generar este media pipeline
+sería POST DETECTION por ejemplo
+y los ángulos de Euler que se calculan
+mediante los datos que se tengan
+de aceleración de quioscopio.
+Y como tal en los avances
+pues he desarrollado
+más o menos un esquema de lo que pienso hacer
+y tenía un video preparado
+en la presentación pero sucedió este problemita.
+¿Es este bien?
+¿Entonces el sensor?
+Bueno, este es un ejemplo
+de la placa sin conector.
+Es un SP32
+tiene conexión WIFI
+y también tiene conexión Bluetooth.
+¿Y la idea sería ponerlo en la mesa?
+Sí, en un día no.
+Estaba pensando
+pues hacer un pequeño...
+En un brazo.
+Sí, en un brazo.
+No.
+Es lo que estoy lidiando ahorita.
+Por eso no lo podía hacer
+y planeaba hacer demo
+en tiempo real en un principio
+y platicé con George y me decía que a lo mejor
+un punto
+un access point pero llegar a la auditor
+y conectar más cosas pues iba a ser más tardado.
+Por lo que no opté por poner el video.
+Aunque no esperaba estos sucesos.
+Pero sí, como tal
+en el script te pide
+el SSID y te pide
+la contraseña para conectarse.
+En este caso estoy planeando para no tener
+que andar cargando con el access point
+emitir una red local
+desde aquí.
+Que tenga su propio SSID y su propia contraseña
+y que se conecte.
+Y eso sería todo.
+¿Cuál sería la contraseña?
